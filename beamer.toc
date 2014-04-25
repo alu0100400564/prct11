@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Primera Secci\IeC {\'o}n}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Primera Subsecci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Segunda Secci\IeC {\'o}n}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Segunda Subsecci\IeC {\'o}n}{5}{0}{2}
+\beamer@sectionintoc {3}{Bibliograf\IeC {\'\i }a}{8}{0}{3}
